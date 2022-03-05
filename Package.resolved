@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Bech32",
+        "repositoryURL": "https://github.com/arnot-project/swift-bech32",
+        "state": {
+          "branch": null,
+          "revision": "9ab5dbc58097df89afa4e48933c43a251f70e9e7",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Blake2b",
+        "repositoryURL": "https://github.com/arnot-project/swift-blake2b-224",
+        "state": {
+          "branch": null,
+          "revision": "cc3675fbde36068c0465525f3691c89f5640c8ac",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
